@@ -1,0 +1,20 @@
+.title {
+  margin-bottom: 16px;
+}
+
+.blog {
+  max-width: 600px;
+  margin: 10px auto;
+  padding: 10px 20px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+}
+
+.blog h3 {
+  color: #f1356d;
+}
+
+.blog:hover {
+  box-shadow: 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
